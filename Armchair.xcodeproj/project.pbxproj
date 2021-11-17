@@ -153,7 +153,7 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E6A0AF6E19C9D1D300C3A7DC /* Localization */ = {
+		E6A0AF6E19C9D1D300C3A7DC /* Resources */ = {
 			isa = PBXGroup;
 			children = (
 				E6A0AF6F19C9D1E800C3A7DC /* ar.lproj */,
@@ -189,7 +189,8 @@
 				E6A0AF8D19C9D1E800C3A7DC /* zh-Hans.lproj */,
 				E6A0AF8E19C9D1E800C3A7DC /* zh-Hant.lproj */,
 			);
-			name = Localization;
+			name = Resources;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		E6D8B92919C880A9001AD043 /* Tests */ = {
@@ -213,8 +214,7 @@
 			isa = PBXGroup;
 			children = (
 				C96F25D727458FB4001428E6 /* Package.swift */,
-				E6A0AF6E19C9D1D300C3A7DC /* Localization */,
-				F8111E3519A95C8B0040E7D1 /* Source */,
+				F8111E3519A95C8B0040E7D1 /* Sources */,
 				E6D8B92919C880A9001AD043 /* Tests */,
 				E6D8B8B519C7274F001AD043 /* Armchair.framework */,
 				E6D8B8F919C756A4001AD043 /* Armchair.framework */,
@@ -223,14 +223,15 @@
 			);
 			sourceTree = "<group>";
 		};
-		F8111E3519A95C8B0040E7D1 /* Source */ = {
+		F8111E3519A95C8B0040E7D1 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
+				E6A0AF6E19C9D1D300C3A7DC /* Resources */,
 				F8111E3819A95C8B0040E7D1 /* Armchair.h */,
 				F897FF4019AA800700AB5182 /* Armchair.swift */,
 				F8111E3619A95C8B0040E7D1 /* Supporting Files */,
 			);
-			path = Source;
+			path = Sources;
 			sourceTree = "<group>";
 		};
 		F8111E3619A95C8B0040E7D1 /* Supporting Files */ = {
