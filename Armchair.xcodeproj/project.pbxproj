@@ -76,6 +76,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C96F25D727458FB4001428E6 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		E6A0AF6519C9CFF400C3A7DC /* Armchair.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Armchair.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6A0AF6819C9CFF500C3A7DC /* Info-Localizable.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Info-Localizable.plist"; sourceTree = "<group>"; };
 		E6A0AF6F19C9D1E800C3A7DC /* ar.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = ar.lproj; path = Localization/ar.lproj; sourceTree = "<group>"; };
@@ -211,6 +212,7 @@
 		F8111E2919A95C8B0040E7D1 = {
 			isa = PBXGroup;
 			children = (
+				C96F25D727458FB4001428E6 /* Package.swift */,
 				E6A0AF6E19C9D1D300C3A7DC /* Localization */,
 				F8111E3519A95C8B0040E7D1 /* Source */,
 				E6D8B92919C880A9001AD043 /* Tests */,
