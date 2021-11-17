@@ -5,6 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "Armchair",
+    defaultLocalization: "en",
     platforms: [
         .iOS(.v8),
         .macOS(.v10_10)
