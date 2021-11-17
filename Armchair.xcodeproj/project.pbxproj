@@ -7,110 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E6A0AF8F19C9D1E800C3A7DC /* ar.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF6F19C9D1E800C3A7DC /* ar.lproj */; };
-		E6A0AF9019C9D1E800C3A7DC /* arm.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7019C9D1E800C3A7DC /* arm.lproj */; };
-		E6A0AF9119C9D1E800C3A7DC /* ca.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7119C9D1E800C3A7DC /* ca.lproj */; };
-		E6A0AF9219C9D1E800C3A7DC /* cs.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7219C9D1E800C3A7DC /* cs.lproj */; };
-		E6A0AF9319C9D1E800C3A7DC /* da.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7319C9D1E800C3A7DC /* da.lproj */; };
-		E6A0AF9419C9D1E800C3A7DC /* de.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7419C9D1E800C3A7DC /* de.lproj */; };
-		E6A0AF9519C9D1E800C3A7DC /* el.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7519C9D1E800C3A7DC /* el.lproj */; };
-		E6A0AF9619C9D1E800C3A7DC /* en.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7619C9D1E800C3A7DC /* en.lproj */; };
-		E6A0AF9719C9D1E800C3A7DC /* es.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7719C9D1E800C3A7DC /* es.lproj */; };
-		E6A0AF9819C9D1E800C3A7DC /* fi.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7819C9D1E800C3A7DC /* fi.lproj */; };
-		E6A0AF9919C9D1E800C3A7DC /* fr.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7919C9D1E800C3A7DC /* fr.lproj */; };
-		E6A0AF9A19C9D1E800C3A7DC /* he.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7A19C9D1E800C3A7DC /* he.lproj */; };
-		E6A0AF9B19C9D1E800C3A7DC /* hu.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7B19C9D1E800C3A7DC /* hu.lproj */; };
-		E6A0AF9C19C9D1E800C3A7DC /* id.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7C19C9D1E800C3A7DC /* id.lproj */; };
-		E6A0AF9D19C9D1E800C3A7DC /* it.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7D19C9D1E800C3A7DC /* it.lproj */; };
-		E6A0AF9E19C9D1E800C3A7DC /* ja.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7E19C9D1E800C3A7DC /* ja.lproj */; };
-		E6A0AF9F19C9D1E800C3A7DC /* ko.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7F19C9D1E800C3A7DC /* ko.lproj */; };
-		E6A0AFA019C9D1E800C3A7DC /* ms.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8019C9D1E800C3A7DC /* ms.lproj */; };
-		E6A0AFA119C9D1E800C3A7DC /* nb.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8119C9D1E800C3A7DC /* nb.lproj */; };
-		E6A0AFA219C9D1E800C3A7DC /* nl.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8219C9D1E800C3A7DC /* nl.lproj */; };
-		E6A0AFA319C9D1E800C3A7DC /* pl.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8319C9D1E800C3A7DC /* pl.lproj */; };
-		E6A0AFA419C9D1E800C3A7DC /* pt-BR.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8419C9D1E800C3A7DC /* pt-BR.lproj */; };
-		E6A0AFA519C9D1E800C3A7DC /* pt.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8519C9D1E800C3A7DC /* pt.lproj */; };
-		E6A0AFA619C9D1E800C3A7DC /* ro.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8619C9D1E800C3A7DC /* ro.lproj */; };
-		E6A0AFA719C9D1E800C3A7DC /* ru.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8719C9D1E800C3A7DC /* ru.lproj */; };
-		E6A0AFA819C9D1E800C3A7DC /* sk.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8819C9D1E800C3A7DC /* sk.lproj */; };
-		E6A0AFA919C9D1E800C3A7DC /* sv.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8919C9D1E800C3A7DC /* sv.lproj */; };
-		E6A0AFAA19C9D1E800C3A7DC /* th.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8A19C9D1E800C3A7DC /* th.lproj */; };
-		E6A0AFAB19C9D1E800C3A7DC /* tr.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8B19C9D1E800C3A7DC /* tr.lproj */; };
-		E6A0AFAC19C9D1E800C3A7DC /* vi.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8C19C9D1E800C3A7DC /* vi.lproj */; };
-		E6A0AFAD19C9D1E800C3A7DC /* zh-Hans.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8D19C9D1E800C3A7DC /* zh-Hans.lproj */; };
-		E6A0AFAE19C9D1E800C3A7DC /* zh-Hant.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8E19C9D1E800C3A7DC /* zh-Hant.lproj */; };
+		C96F25FE2745A25C001428E6 /* ArmchairLocalizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = C96F25DD2745A25C001428E6 /* ArmchairLocalizable.strings */; };
 		E6D8B8F119C756A4001AD043 /* Armchair.swift in Sources */ = {isa = PBXBuildFile; fileRef = F897FF4019AA800700AB5182 /* Armchair.swift */; };
-		E6F6157119C9FFDA00C0B51C /* hu.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7B19C9D1E800C3A7DC /* hu.lproj */; };
-		E6F6157219C9FFDA00C0B51C /* pl.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8319C9D1E800C3A7DC /* pl.lproj */; };
-		E6F6157319C9FFDA00C0B51C /* pt.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8519C9D1E800C3A7DC /* pt.lproj */; };
-		E6F6157419C9FFDA00C0B51C /* en.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7619C9D1E800C3A7DC /* en.lproj */; };
-		E6F6157519C9FFDA00C0B51C /* pt-BR.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8419C9D1E800C3A7DC /* pt-BR.lproj */; };
-		E6F6157619C9FFDA00C0B51C /* th.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8A19C9D1E800C3A7DC /* th.lproj */; };
-		E6F6157719C9FFDA00C0B51C /* arm.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7019C9D1E800C3A7DC /* arm.lproj */; };
-		E6F6157819C9FFDA00C0B51C /* nl.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8219C9D1E800C3A7DC /* nl.lproj */; };
-		E6F6157919C9FFDA00C0B51C /* ca.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7119C9D1E800C3A7DC /* ca.lproj */; };
-		E6F6157A19C9FFDA00C0B51C /* ar.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF6F19C9D1E800C3A7DC /* ar.lproj */; };
-		E6F6157B19C9FFDA00C0B51C /* el.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7519C9D1E800C3A7DC /* el.lproj */; };
-		E6F6157C19C9FFDA00C0B51C /* zh-Hans.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8D19C9D1E800C3A7DC /* zh-Hans.lproj */; };
-		E6F6157D19C9FFDA00C0B51C /* ko.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7F19C9D1E800C3A7DC /* ko.lproj */; };
-		E6F6157E19C9FFDA00C0B51C /* ms.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8019C9D1E800C3A7DC /* ms.lproj */; };
-		E6F6157F19C9FFDA00C0B51C /* id.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7C19C9D1E800C3A7DC /* id.lproj */; };
-		E6F6158019C9FFDA00C0B51C /* ru.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8719C9D1E800C3A7DC /* ru.lproj */; };
-		E6F6158119C9FFDA00C0B51C /* da.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7319C9D1E800C3A7DC /* da.lproj */; };
-		E6F6158219C9FFDA00C0B51C /* sk.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8819C9D1E800C3A7DC /* sk.lproj */; };
-		E6F6158319C9FFDA00C0B51C /* ja.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7E19C9D1E800C3A7DC /* ja.lproj */; };
-		E6F6158419C9FFDA00C0B51C /* tr.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8B19C9D1E800C3A7DC /* tr.lproj */; };
-		E6F6158519C9FFDA00C0B51C /* nb.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8119C9D1E800C3A7DC /* nb.lproj */; };
-		E6F6158619C9FFDA00C0B51C /* fr.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7919C9D1E800C3A7DC /* fr.lproj */; };
-		E6F6158719C9FFDA00C0B51C /* de.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7419C9D1E800C3A7DC /* de.lproj */; };
-		E6F6158819C9FFDA00C0B51C /* es.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7719C9D1E800C3A7DC /* es.lproj */; };
-		E6F6158919C9FFDA00C0B51C /* fi.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7819C9D1E800C3A7DC /* fi.lproj */; };
-		E6F6158A19C9FFDA00C0B51C /* he.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7A19C9D1E800C3A7DC /* he.lproj */; };
-		E6F6158B19C9FFDA00C0B51C /* it.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7D19C9D1E800C3A7DC /* it.lproj */; };
-		E6F6158C19C9FFDA00C0B51C /* ro.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8619C9D1E800C3A7DC /* ro.lproj */; };
-		E6F6158D19C9FFDA00C0B51C /* zh-Hant.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8E19C9D1E800C3A7DC /* zh-Hant.lproj */; };
-		E6F6158E19C9FFDA00C0B51C /* sv.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8919C9D1E800C3A7DC /* sv.lproj */; };
-		E6F6158F19C9FFDA00C0B51C /* vi.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF8C19C9D1E800C3A7DC /* vi.lproj */; };
-		E6F6159019C9FFDA00C0B51C /* cs.lproj in Resources */ = {isa = PBXBuildFile; fileRef = E6A0AF7219C9D1E800C3A7DC /* cs.lproj */; };
 		F897FF4119AA800700AB5182 /* Armchair.swift in Sources */ = {isa = PBXBuildFile; fileRef = F897FF4019AA800700AB5182 /* Armchair.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		C96F25D727458FB4001428E6 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
+		C96F25DE2745A25C001428E6 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25DF2745A25C001428E6 /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25E02745A25C001428E6 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25E12745A25C001428E6 /* el */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = el; path = el.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25E22745A25C001428E6 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/ArmchairLocalizable.strings"; sourceTree = "<group>"; };
+		C96F25E32745A25C001428E6 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25E42745A25C001428E6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25E52745A25C001428E6 /* arm */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = arm; path = arm.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25E62745A25C001428E6 /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25E72745A25C001428E6 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25E82745A25C001428E6 /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25E92745A25C001428E6 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25EA2745A25C001428E6 /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25EB2745A25C001428E6 /* ms */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ms; path = ms.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25EC2745A25C001428E6 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25ED2745A25C001428E6 /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25EE2745A25C001428E6 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25EF2745A25C001428E6 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/ArmchairLocalizable.strings"; sourceTree = "<group>"; };
+		C96F25F02745A25C001428E6 /* hu */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hu; path = hu.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25F12745A25C001428E6 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25F22745A25C001428E6 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25F32745A25C001428E6 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/ArmchairLocalizable.strings"; sourceTree = "<group>"; };
+		C96F25F42745A25C001428E6 /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25F52745A25C001428E6 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25F62745A25C001428E6 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25F72745A25C001428E6 /* fi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fi; path = fi.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25F82745A25C001428E6 /* id */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = id; path = id.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25F92745A25C001428E6 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25FA2745A25C001428E6 /* th */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = th; path = th.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25FB2745A25C001428E6 /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pt; path = pt.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25FC2745A25C001428E6 /* ro */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ro; path = ro.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
+		C96F25FD2745A25C001428E6 /* ca */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ca; path = ca.lproj/ArmchairLocalizable.strings; sourceTree = "<group>"; };
 		E6A0AF6519C9CFF400C3A7DC /* Armchair.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Armchair.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6A0AF6819C9CFF500C3A7DC /* Info-Localizable.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Info-Localizable.plist"; sourceTree = "<group>"; };
-		E6A0AF6F19C9D1E800C3A7DC /* ar.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = ar.lproj; path = Localization/ar.lproj; sourceTree = "<group>"; };
-		E6A0AF7019C9D1E800C3A7DC /* arm.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = arm.lproj; path = Localization/arm.lproj; sourceTree = "<group>"; };
-		E6A0AF7119C9D1E800C3A7DC /* ca.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = ca.lproj; path = Localization/ca.lproj; sourceTree = "<group>"; };
-		E6A0AF7219C9D1E800C3A7DC /* cs.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = cs.lproj; path = Localization/cs.lproj; sourceTree = "<group>"; };
-		E6A0AF7319C9D1E800C3A7DC /* da.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = da.lproj; path = Localization/da.lproj; sourceTree = "<group>"; };
-		E6A0AF7419C9D1E800C3A7DC /* de.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = de.lproj; path = Localization/de.lproj; sourceTree = "<group>"; };
-		E6A0AF7519C9D1E800C3A7DC /* el.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = el.lproj; path = Localization/el.lproj; sourceTree = "<group>"; };
-		E6A0AF7619C9D1E800C3A7DC /* en.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = en.lproj; path = Localization/en.lproj; sourceTree = "<group>"; };
-		E6A0AF7719C9D1E800C3A7DC /* es.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = es.lproj; path = Localization/es.lproj; sourceTree = "<group>"; };
-		E6A0AF7819C9D1E800C3A7DC /* fi.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = fi.lproj; path = Localization/fi.lproj; sourceTree = "<group>"; };
-		E6A0AF7919C9D1E800C3A7DC /* fr.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = fr.lproj; path = Localization/fr.lproj; sourceTree = "<group>"; };
-		E6A0AF7A19C9D1E800C3A7DC /* he.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = he.lproj; path = Localization/he.lproj; sourceTree = "<group>"; };
-		E6A0AF7B19C9D1E800C3A7DC /* hu.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = hu.lproj; path = Localization/hu.lproj; sourceTree = "<group>"; };
-		E6A0AF7C19C9D1E800C3A7DC /* id.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = id.lproj; path = Localization/id.lproj; sourceTree = "<group>"; };
-		E6A0AF7D19C9D1E800C3A7DC /* it.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = it.lproj; path = Localization/it.lproj; sourceTree = "<group>"; };
-		E6A0AF7E19C9D1E800C3A7DC /* ja.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = ja.lproj; path = Localization/ja.lproj; sourceTree = "<group>"; };
-		E6A0AF7F19C9D1E800C3A7DC /* ko.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = ko.lproj; path = Localization/ko.lproj; sourceTree = "<group>"; };
-		E6A0AF8019C9D1E800C3A7DC /* ms.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = ms.lproj; path = Localization/ms.lproj; sourceTree = "<group>"; };
-		E6A0AF8119C9D1E800C3A7DC /* nb.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = nb.lproj; path = Localization/nb.lproj; sourceTree = "<group>"; };
-		E6A0AF8219C9D1E800C3A7DC /* nl.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = nl.lproj; path = Localization/nl.lproj; sourceTree = "<group>"; };
-		E6A0AF8319C9D1E800C3A7DC /* pl.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = pl.lproj; path = Localization/pl.lproj; sourceTree = "<group>"; };
-		E6A0AF8419C9D1E800C3A7DC /* pt-BR.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "pt-BR.lproj"; path = "Localization/pt-BR.lproj"; sourceTree = "<group>"; };
-		E6A0AF8519C9D1E800C3A7DC /* pt.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = pt.lproj; path = Localization/pt.lproj; sourceTree = "<group>"; };
-		E6A0AF8619C9D1E800C3A7DC /* ro.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = ro.lproj; path = Localization/ro.lproj; sourceTree = "<group>"; };
-		E6A0AF8719C9D1E800C3A7DC /* ru.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = ru.lproj; path = Localization/ru.lproj; sourceTree = "<group>"; };
-		E6A0AF8819C9D1E800C3A7DC /* sk.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = sk.lproj; path = Localization/sk.lproj; sourceTree = "<group>"; };
-		E6A0AF8919C9D1E800C3A7DC /* sv.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = sv.lproj; path = Localization/sv.lproj; sourceTree = "<group>"; };
-		E6A0AF8A19C9D1E800C3A7DC /* th.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = th.lproj; path = Localization/th.lproj; sourceTree = "<group>"; };
-		E6A0AF8B19C9D1E800C3A7DC /* tr.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = tr.lproj; path = Localization/tr.lproj; sourceTree = "<group>"; };
-		E6A0AF8C19C9D1E800C3A7DC /* vi.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = vi.lproj; path = Localization/vi.lproj; sourceTree = "<group>"; };
-		E6A0AF8D19C9D1E800C3A7DC /* zh-Hans.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "zh-Hans.lproj"; path = "Localization/zh-Hans.lproj"; sourceTree = "<group>"; };
-		E6A0AF8E19C9D1E800C3A7DC /* zh-Hant.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "zh-Hant.lproj"; path = "Localization/zh-Hant.lproj"; sourceTree = "<group>"; };
 		E6D8B8B519C7274F001AD043 /* Armchair.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Armchair.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6D8B8F919C756A4001AD043 /* Armchair.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Armchair.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6D8B92B19C880A9001AD043 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -153,44 +90,12 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E6A0AF6E19C9D1D300C3A7DC /* Resources */ = {
+		C96F25DC2745A25C001428E6 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				E6A0AF6F19C9D1E800C3A7DC /* ar.lproj */,
-				E6A0AF7019C9D1E800C3A7DC /* arm.lproj */,
-				E6A0AF7119C9D1E800C3A7DC /* ca.lproj */,
-				E6A0AF7219C9D1E800C3A7DC /* cs.lproj */,
-				E6A0AF7319C9D1E800C3A7DC /* da.lproj */,
-				E6A0AF7419C9D1E800C3A7DC /* de.lproj */,
-				E6A0AF7519C9D1E800C3A7DC /* el.lproj */,
-				E6A0AF7619C9D1E800C3A7DC /* en.lproj */,
-				E6A0AF7719C9D1E800C3A7DC /* es.lproj */,
-				E6A0AF7819C9D1E800C3A7DC /* fi.lproj */,
-				E6A0AF7919C9D1E800C3A7DC /* fr.lproj */,
-				E6A0AF7A19C9D1E800C3A7DC /* he.lproj */,
-				E6A0AF7B19C9D1E800C3A7DC /* hu.lproj */,
-				E6A0AF7C19C9D1E800C3A7DC /* id.lproj */,
-				E6A0AF7D19C9D1E800C3A7DC /* it.lproj */,
-				E6A0AF7E19C9D1E800C3A7DC /* ja.lproj */,
-				E6A0AF7F19C9D1E800C3A7DC /* ko.lproj */,
-				E6A0AF8019C9D1E800C3A7DC /* ms.lproj */,
-				E6A0AF8119C9D1E800C3A7DC /* nb.lproj */,
-				E6A0AF8219C9D1E800C3A7DC /* nl.lproj */,
-				E6A0AF8319C9D1E800C3A7DC /* pl.lproj */,
-				E6A0AF8419C9D1E800C3A7DC /* pt-BR.lproj */,
-				E6A0AF8519C9D1E800C3A7DC /* pt.lproj */,
-				E6A0AF8619C9D1E800C3A7DC /* ro.lproj */,
-				E6A0AF8719C9D1E800C3A7DC /* ru.lproj */,
-				E6A0AF8819C9D1E800C3A7DC /* sk.lproj */,
-				E6A0AF8919C9D1E800C3A7DC /* sv.lproj */,
-				E6A0AF8A19C9D1E800C3A7DC /* th.lproj */,
-				E6A0AF8B19C9D1E800C3A7DC /* tr.lproj */,
-				E6A0AF8C19C9D1E800C3A7DC /* vi.lproj */,
-				E6A0AF8D19C9D1E800C3A7DC /* zh-Hans.lproj */,
-				E6A0AF8E19C9D1E800C3A7DC /* zh-Hant.lproj */,
+				C96F25DD2745A25C001428E6 /* ArmchairLocalizable.strings */,
 			);
-			name = Resources;
-			path = ..;
+			path = Resources;
 			sourceTree = "<group>";
 		};
 		E6D8B92919C880A9001AD043 /* Tests */ = {
@@ -226,7 +131,7 @@
 		F8111E3519A95C8B0040E7D1 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				E6A0AF6E19C9D1D300C3A7DC /* Resources */,
+				C96F25DC2745A25C001428E6 /* Resources */,
 				F8111E3819A95C8B0040E7D1 /* Armchair.h */,
 				F897FF4019AA800700AB5182 /* Armchair.swift */,
 				F8111E3619A95C8B0040E7D1 /* Supporting Files */,
@@ -344,6 +249,38 @@
 			knownRegions = (
 				en,
 				Base,
+				de,
+				he,
+				ar,
+				el,
+				"zh-Hans",
+				ja,
+				arm,
+				hy,
+				nb,
+				es,
+				da,
+				it,
+				sk,
+				ms,
+				sv,
+				cs,
+				ko,
+				"zh-Hant",
+				hu,
+				tr,
+				pl,
+				"pt-BR",
+				vi,
+				ru,
+				fr,
+				fi,
+				id,
+				nl,
+				th,
+				pt,
+				ro,
+				ca,
 			);
 			mainGroup = F8111E2919A95C8B0040E7D1;
 			productRefGroup = F8111E2919A95C8B0040E7D1;
@@ -363,38 +300,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E6A0AF9B19C9D1E800C3A7DC /* hu.lproj in Resources */,
-				E6A0AFA319C9D1E800C3A7DC /* pl.lproj in Resources */,
-				E6A0AFA519C9D1E800C3A7DC /* pt.lproj in Resources */,
-				E6A0AF9619C9D1E800C3A7DC /* en.lproj in Resources */,
-				E6A0AFA419C9D1E800C3A7DC /* pt-BR.lproj in Resources */,
-				E6A0AFAA19C9D1E800C3A7DC /* th.lproj in Resources */,
-				E6A0AF9019C9D1E800C3A7DC /* arm.lproj in Resources */,
-				E6A0AFA219C9D1E800C3A7DC /* nl.lproj in Resources */,
-				E6A0AF9119C9D1E800C3A7DC /* ca.lproj in Resources */,
-				E6A0AF8F19C9D1E800C3A7DC /* ar.lproj in Resources */,
-				E6A0AF9519C9D1E800C3A7DC /* el.lproj in Resources */,
-				E6A0AFAD19C9D1E800C3A7DC /* zh-Hans.lproj in Resources */,
-				E6A0AF9F19C9D1E800C3A7DC /* ko.lproj in Resources */,
-				E6A0AFA019C9D1E800C3A7DC /* ms.lproj in Resources */,
-				E6A0AF9C19C9D1E800C3A7DC /* id.lproj in Resources */,
-				E6A0AFA719C9D1E800C3A7DC /* ru.lproj in Resources */,
-				E6A0AF9319C9D1E800C3A7DC /* da.lproj in Resources */,
-				E6A0AFA819C9D1E800C3A7DC /* sk.lproj in Resources */,
-				E6A0AF9E19C9D1E800C3A7DC /* ja.lproj in Resources */,
-				E6A0AFAB19C9D1E800C3A7DC /* tr.lproj in Resources */,
-				E6A0AFA119C9D1E800C3A7DC /* nb.lproj in Resources */,
-				E6A0AF9919C9D1E800C3A7DC /* fr.lproj in Resources */,
-				E6A0AF9419C9D1E800C3A7DC /* de.lproj in Resources */,
-				E6A0AF9719C9D1E800C3A7DC /* es.lproj in Resources */,
-				E6A0AF9819C9D1E800C3A7DC /* fi.lproj in Resources */,
-				E6A0AF9A19C9D1E800C3A7DC /* he.lproj in Resources */,
-				E6A0AF9D19C9D1E800C3A7DC /* it.lproj in Resources */,
-				E6A0AFA619C9D1E800C3A7DC /* ro.lproj in Resources */,
-				E6A0AFAE19C9D1E800C3A7DC /* zh-Hant.lproj in Resources */,
-				E6A0AFA919C9D1E800C3A7DC /* sv.lproj in Resources */,
-				E6A0AFAC19C9D1E800C3A7DC /* vi.lproj in Resources */,
-				E6A0AF9219C9D1E800C3A7DC /* cs.lproj in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -409,38 +314,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E6F6157119C9FFDA00C0B51C /* hu.lproj in Resources */,
-				E6F6157219C9FFDA00C0B51C /* pl.lproj in Resources */,
-				E6F6157319C9FFDA00C0B51C /* pt.lproj in Resources */,
-				E6F6157419C9FFDA00C0B51C /* en.lproj in Resources */,
-				E6F6157519C9FFDA00C0B51C /* pt-BR.lproj in Resources */,
-				E6F6157619C9FFDA00C0B51C /* th.lproj in Resources */,
-				E6F6157719C9FFDA00C0B51C /* arm.lproj in Resources */,
-				E6F6157819C9FFDA00C0B51C /* nl.lproj in Resources */,
-				E6F6157919C9FFDA00C0B51C /* ca.lproj in Resources */,
-				E6F6157A19C9FFDA00C0B51C /* ar.lproj in Resources */,
-				E6F6157B19C9FFDA00C0B51C /* el.lproj in Resources */,
-				E6F6157C19C9FFDA00C0B51C /* zh-Hans.lproj in Resources */,
-				E6F6157D19C9FFDA00C0B51C /* ko.lproj in Resources */,
-				E6F6157E19C9FFDA00C0B51C /* ms.lproj in Resources */,
-				E6F6157F19C9FFDA00C0B51C /* id.lproj in Resources */,
-				E6F6158019C9FFDA00C0B51C /* ru.lproj in Resources */,
-				E6F6158119C9FFDA00C0B51C /* da.lproj in Resources */,
-				E6F6158219C9FFDA00C0B51C /* sk.lproj in Resources */,
-				E6F6158319C9FFDA00C0B51C /* ja.lproj in Resources */,
-				E6F6158419C9FFDA00C0B51C /* tr.lproj in Resources */,
-				E6F6158519C9FFDA00C0B51C /* nb.lproj in Resources */,
-				E6F6158619C9FFDA00C0B51C /* fr.lproj in Resources */,
-				E6F6158719C9FFDA00C0B51C /* de.lproj in Resources */,
-				E6F6158819C9FFDA00C0B51C /* es.lproj in Resources */,
-				E6F6158919C9FFDA00C0B51C /* fi.lproj in Resources */,
-				E6F6158A19C9FFDA00C0B51C /* he.lproj in Resources */,
-				E6F6158B19C9FFDA00C0B51C /* it.lproj in Resources */,
-				E6F6158C19C9FFDA00C0B51C /* ro.lproj in Resources */,
-				E6F6158D19C9FFDA00C0B51C /* zh-Hant.lproj in Resources */,
-				E6F6158E19C9FFDA00C0B51C /* sv.lproj in Resources */,
-				E6F6158F19C9FFDA00C0B51C /* vi.lproj in Resources */,
-				E6F6159019C9FFDA00C0B51C /* cs.lproj in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -448,6 +321,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C96F25FE2745A25C001428E6 /* ArmchairLocalizable.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -485,6 +359,48 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		C96F25DD2745A25C001428E6 /* ArmchairLocalizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C96F25DE2745A25C001428E6 /* de */,
+				C96F25DF2745A25C001428E6 /* he */,
+				C96F25E02745A25C001428E6 /* ar */,
+				C96F25E12745A25C001428E6 /* el */,
+				C96F25E22745A25C001428E6 /* zh-Hans */,
+				C96F25E32745A25C001428E6 /* ja */,
+				C96F25E42745A25C001428E6 /* en */,
+				C96F25E52745A25C001428E6 /* arm */,
+				C96F25E62745A25C001428E6 /* nb */,
+				C96F25E72745A25C001428E6 /* es */,
+				C96F25E82745A25C001428E6 /* da */,
+				C96F25E92745A25C001428E6 /* it */,
+				C96F25EA2745A25C001428E6 /* sk */,
+				C96F25EB2745A25C001428E6 /* ms */,
+				C96F25EC2745A25C001428E6 /* sv */,
+				C96F25ED2745A25C001428E6 /* cs */,
+				C96F25EE2745A25C001428E6 /* ko */,
+				C96F25EF2745A25C001428E6 /* zh-Hant */,
+				C96F25F02745A25C001428E6 /* hu */,
+				C96F25F12745A25C001428E6 /* tr */,
+				C96F25F22745A25C001428E6 /* pl */,
+				C96F25F32745A25C001428E6 /* pt-BR */,
+				C96F25F42745A25C001428E6 /* vi */,
+				C96F25F52745A25C001428E6 /* ru */,
+				C96F25F62745A25C001428E6 /* fr */,
+				C96F25F72745A25C001428E6 /* fi */,
+				C96F25F82745A25C001428E6 /* id */,
+				C96F25F92745A25C001428E6 /* nl */,
+				C96F25FA2745A25C001428E6 /* th */,
+				C96F25FB2745A25C001428E6 /* pt */,
+				C96F25FC2745A25C001428E6 /* ro */,
+				C96F25FD2745A25C001428E6 /* ca */,
+			);
+			name = ArmchairLocalizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		E6A0AF6A19C9CFF500C3A7DC /* Debug */ = {
